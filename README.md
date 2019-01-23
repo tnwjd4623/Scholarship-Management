@@ -1,3 +1,3 @@
-# Scholharship-Management  
+# Scholarship-Management  
   
-Description: Scholharship-Management using JSP
+Description: Scholarship-Management using JSP
