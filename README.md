@@ -1,3 +1,4 @@
 # Scholarship-Management  
   
-Description: Scholarship-Management using JSP
+Description: 학사관리시스템
+Scholarship-Management using JSP
